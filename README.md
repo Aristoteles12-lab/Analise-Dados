@@ -32,8 +32,14 @@ Este repositório contém um dashboard desenvolvido em **Power BI** com foco em 
 ![image](https://github.com/user-attachments/assets/9a356fed-c031-44f2-99d6-bac3df6ae659)
 
 ## Legenda
+
 Fechamento: Fornece o último preço pelo qual a ação foi negociada na NASDAQ no final do dia da negociação.
+
 Volume: Indica o número total de ações negociadas durante o dia.
+
 Open: Indica o preço de abertura da ação na NASDAQ no início do dia de negociação.
+
 High: Indica o preço máximo que a ação foi negociada naquele dia.
+
 Low: Indica o preço mínimo que a ação foi negociada naquele dia.
+
