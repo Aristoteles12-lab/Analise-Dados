@@ -43,3 +43,6 @@ High: Indica o preço máximo que a ação foi negociada naquele dia.
 
 Low: Indica o preço mínimo que a ação foi negociada naquele dia.
 
+## Fonte
+Fonte: [NASDAQ](https://www.nasdaq.com/)
+
